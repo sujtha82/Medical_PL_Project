@@ -1,0 +1,10 @@
+A claim is a request for payment that a healthcare provider submits to a health insurance company.
+Prior authorization is required before certain medical procedures or prescriptions are approved.
+Claim denial may occur due to missing documents, incorrect patient information, or policy exclusions.
+Reimbursement occurs when the insurance plan pays back the member for covered medical expenses.
+Coordination of benefits determines which insurance plan pays first when multiple policies exist.
+Claim status inquiries allow providers to check whether a claim has been received and processed.
+Appeals can be filed when a claim is denied by the insurance company.
+Medical billing codes like ICD-10 and CPT are used for claim submission and reimbursement.
+Timely filing limits refer to deadlines by which claims must be submitted for payment.
+Fraud detection systems analyze claims for duplicate or suspicious billing patterns.

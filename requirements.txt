@@ -1,0 +1,11 @@
+langchain
+chromadb
+sentence-transformers
+rank-bm25
+faiss-cpu
+gradio
+numpy
+PyMuPDF
+nltk
+langchain-text-splitters
+langchain

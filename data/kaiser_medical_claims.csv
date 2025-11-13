@@ -1,0 +1,7 @@
+Claim ID,Patient,Date of Service,Provider,Diagnosis,Procedure,Amount Billed ($),Amount Paid ($),Claim Status
+K001,Alice Johnson,2023-06-12,Kaiser Permanente - San Jose,I10 - Hypertension,Blood pressure check,240,200,Approved
+K002,Brian Lee,2023-07-05,Kaiser Permanente - Oakland,E11.9 - Type 2 Diabetes,Blood sugar test and medication refill,320,300,Approved
+K003,Catherine Young,2023-08-15,Kaiser Permanente - Fresno,M54.5 - Lower Back Pain,Physiotherapy and MRI Scan,1100,950,Pending Review
+K004,David Kim,2023-09-20,Kaiser Permanente - Sacramento,J45 - Asthma,Spirometry test and consultation,200,180,Approved
+K005,Evelyn Wright,2023-10-02,Kaiser Permanente - Los Angeles,J20.9 - Acute Bronchitis,X-ray and antibiotics,500,450,Denied
+K006,Frank Miller,2023-11-01,Kaiser Permanente - San Diego,G43.0 - Migraine,Neurological exam and follow-up,650,550,Approved
