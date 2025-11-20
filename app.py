@@ -14,7 +14,7 @@ def chat_interface(query, history):
     return history, ""
 
 with gr.Blocks(theme="soft") as demo:
-    gr.Markdown("<h1 style='text-align:center;'>🏥 Medical Claims Hybrid RAG + ReRanker Chatbot</h1>")
+    gr.Markdown("<h1 style='text-align:center;'>🏥 Medical Claims Hybrid RAG Chatbot</h1>")
     
     chatbot = gr.Chatbot(height=400)
     user_input = gr.Textbox(label="Ask about medical claims", placeholder="e.g. Why was my claim denied?", lines=2)
